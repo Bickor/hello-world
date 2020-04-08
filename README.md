@@ -1,2 +1,2 @@
 # hello-world
-Hello-World repository
+Hello, this is the readme to learn about github and how it works.
